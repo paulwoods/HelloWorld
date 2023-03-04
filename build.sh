@@ -1,1 +1,1 @@
-sudo docker build -t mrpaulwoods.com/helloworld .
+docker build -t paulwoods/helloworld .

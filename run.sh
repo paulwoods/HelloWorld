@@ -1,2 +1,2 @@
-sudo docker run mrpaulwoods.com/helloworld
+docker run paulwoods/helloworld
 
